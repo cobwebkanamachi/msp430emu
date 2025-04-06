@@ -1,6 +1,6 @@
 # msp430emu
 clone of https://github.com/zceemja/msp430emu/tree/master slightly fixage on installation tips?!
-
+Build msp430emu with GUI is briefly on <a href="https://github.com/cobwebkanamachi/msp430emu/blob/main/HIST.430emu">HIST.430emu</a><BR>
 <img src="https://github.com/cobwebkanamachi/msp430emu/blob/main/emugui.jpg">
 <img src="https://github.com/cobwebkanamachi/msp430emu/blob/main/tosbin-bfovf.jpg">
 
